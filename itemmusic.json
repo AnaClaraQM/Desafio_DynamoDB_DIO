@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Queen"},
+  "SongTitle": {"S": "Crazy Little Thing Called Love"},
+  "AlbumTitle": {"S": "The Game"},
+  "SongYear": {"S": "1980"}
+}

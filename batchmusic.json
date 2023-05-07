@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Queen"},
+                  "SongTitle": {"S": "Bohemian Rhapsody"},
+                  "AlbumTitle": {"S": "A Night at the Opera"},
+                  "SongYear": {"S": "1975"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Queen"},
+                  "SongTitle": {"S": "Don't Stop Me Now"},
+                  "AlbumTitle": {"S": "Jazz"},
+                  "SongYear": {"S": "1978"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Queen"},
+                  "SongTitle": {"S": "Another One Bites the Dust"},
+                  "AlbumTitle": {"S": "The Game"},
+                  "SongYear": {"S": "1980"}
+                }
+            }
+        }
+      ]
+}
